@@ -2,8 +2,8 @@ name: Update M3U8 Playlist
 
 on:
   schedule:
-    - cron: '*/15 * * * *'
-  workflow_dispatch:
+    - cron: '*/15 * * * *' # Runs every 15 minutes
+  workflow_dispatch: # Allows manual triggering
 
 permissions:
   contents: write
@@ -21,10 +21,16 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
+          cache: 'pip' # Caches dependencies to make future runs much faster
 
       - name: Install dependencies
         run: |
-          pip install requests
+          # Install all required Python libraries
+          pip install --upgrade pip
+          pip install aiohttp beautifulsoup4 playwright
+          
+          # Install the Chromium browser that Playwright needs to run headless
+          playwright install chromium
 
       - name: Run Protected Playlist Generator
         env:
