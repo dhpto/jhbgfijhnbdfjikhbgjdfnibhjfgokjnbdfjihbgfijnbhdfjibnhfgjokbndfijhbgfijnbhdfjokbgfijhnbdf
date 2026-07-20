@@ -21,15 +21,14 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-          cache: 'pip' # Caches dependencies to make future runs much faster
+          # Cache removed to prevent errors if requirements.txt is missing
 
       - name: Install dependencies
         run: |
-          # Install all required Python libraries
-          pip install --upgrade pip
-          pip install aiohttp beautifulsoup4 playwright
-          
-          # Install the Chromium browser that Playwright needs to run headless
+          python -m pip install --upgrade pip
+          # Install all required libraries for your script
+          pip install playwright beautifulsoup4 aiohttp
+          # Install the Chromium browser that Playwright needs
           playwright install chromium
 
       - name: Run Protected Playlist Generator
