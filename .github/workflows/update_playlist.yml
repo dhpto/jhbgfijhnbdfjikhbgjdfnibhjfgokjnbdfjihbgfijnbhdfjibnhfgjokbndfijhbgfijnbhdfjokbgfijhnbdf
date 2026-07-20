@@ -14,32 +14,29 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
-      - name: Install dependencies & Playwright
+      - name: Install dependencies
         run: |
-          pip install playwright requests
-          playwright install chromium --with-deps
+          pip install requests
 
       - name: Run Protected Playlist Generator
         env:
           SECURE_DECRYPT_CODE: ${{ secrets.SECURE_DECRYPT_CODE }}
         run: python main.py
 
-      - name: Push to Secret Gist
+      - name: Commit and Push to Repository
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
-          git clone https://${{ secrets.GIST_TOKEN }}@gist.github.com/df575d8ff9b91c27b28f33f36adcbe75.git gist_repo
-          
-          cp playlist.m3u gist_repo/
-          cd gist_repo
-          
           git add playlist.m3u
-          git commit -m "Automated cricket playlist update" || exit 0
-          git push
+          # The || exit 0 prevents the workflow from failing if the playlist hasn't changed
+          git commit -m "Automated API playlist update" || exit 0
+          git push origin HEAD
