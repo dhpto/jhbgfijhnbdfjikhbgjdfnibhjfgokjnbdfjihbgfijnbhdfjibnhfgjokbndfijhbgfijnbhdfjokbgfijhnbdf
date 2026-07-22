@@ -2,248 +2,228 @@
 #EXTINF:-1 tvg-id="ABC" tvg-name="ABC" tvg-logo="https://api.cdnlivetv.is/api/v1/channels/images6318/united-states/abc.png" group-title="US",ABC
 #EXTVLCOPT:http-origin=https://cdnlivetv.is/
 #EXTVLCOPT:http-referrer=https://cdnlivetv.is/
-https://cdnlivetv.is/secure/api/v1/6a288d2781d8192bb76cb354/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzU0OjE3ODQ3NTk5NjM4ODc6Y2RubGl2ZXR2LmlzOmM1Njc1OTEwMDMzM2U4OTEuOTZhMjMzZWIyYzI0MjkwYWZiNWFlYmQzZTdmNTkyOThmYWVlNmFkNThjM2FiNDQ5MTY3OGMzMjAwOTJhNzRlZQ
+https://cdnlivetv.is/secure/api/v1/6a288d2781d8192bb76cb354/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzU0OjE3ODQ3NjY5OTYyODM6Y2RubGl2ZXR2LmlzOjBkNjExNzc1Y2FmZDliYzMuNGM3ZDljMWM3ZDc2ODRhNTk1OGFlZWFhZjk3Yzg0NTY0MTZhN2NjNTBlMzA1NDFjNTUwZjk0MDA4OWZiMjMzYg
 #EXTINF:-1 tvg-id="ACC Network" tvg-name="ACC Network" tvg-logo="https://api.cdnlivetv.is/api/v1/channels/images6318/united-states/acc-network.png" group-title="US",ACC Network
 #EXTVLCOPT:http-origin=https://cdnlivetv.is/
 #EXTVLCOPT:http-referrer=https://cdnlivetv.is/
-https://cdnlivetv.is/secure/api/v1/6a288d2781d8192bb76cb355/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzU1OjE3ODQ3NTk5NjQ4NjY6Y2RubGl2ZXR2LmlzOjA5YjM2MmVlYzRkZGJmMzcuYzFmN2QwMTYxN2VkYWE1MTI2ZjE1YmVlYTZkYzY2ZWFkZDFiN2Y3NDQ1NGNlZDBkNjEwZDcwZTViYjdlMjllMA
+https://cdnlivetv.is/secure/api/v1/6a288d2781d8192bb76cb355/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzU1OjE3ODQ3NjY5OTcxMjg6Y2RubGl2ZXR2LmlzOjhlM2I5ZjU4ODg5ZjhhYWIuZmU1Yzg2NTQ5OGFlYTgxNTYyYTVkN2FkNjE1MmEyNjc0MDlmOGM0OWFmOWIwOGFiYWI4NDdkOTI2OGIyNDZmOA
 #EXTINF:-1 tvg-id="BBC Two" tvg-name="BBC Two" tvg-logo="https://api.cdnlivetv.is/api/v1/channels/images6318/united-kingdom/bbc-two.png" group-title="GB",BBC Two
 #EXTVLCOPT:http-origin=https://cdnlivetv.is/
 #EXTVLCOPT:http-referrer=https://cdnlivetv.is/
-https://cdnlivetv.is/secure/api/v1/6a288d2a81d8192bb76cc37d/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzdkOjE3ODQ3NTk5OTAzOTk6Y2RubGl2ZXR2LmlzOjJmMzZjYTJkMWRjZGE5MGUuMTQ2YjVlMjdmMzM0ZjQzY2JhMDViZjA1MWQwYWI2MWUzY2IyMmM1MmU2MjZhNzljYjg0NTE0YjE4YzZkN2Y2MQ
+https://cdnlivetv.is/secure/api/v1/6a288d2a81d8192bb76cc37d/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzdkOjE3ODQ3NjcwMjA4Mjc6Y2RubGl2ZXR2LmlzOjMyODFkNjg4ODY1MTk5OGMuMzViY2FlM2JiNzAwMzg3MzM1ODYwYjE0MDZlNzc2MDBmOTNmNzI1ZWQyOWU0Y2Q4ZWMzNDZjYWVhNDBiYThmNQ
 #EXTINF:-1 tvg-id="BET" tvg-name="BET" tvg-logo="https://api.cdnlivetv.is/api/v1/channels/images6318/united-states/bet.png" group-title="US",BET
 #EXTVLCOPT:http-origin=https://cdnlivetv.is/
 #EXTVLCOPT:http-referrer=https://cdnlivetv.is/
-https://cdnlivetv.is/secure/api/v1/6a288d2781d8192bb76cb200/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMjAwOjE3ODQ3NTk5OTE4Mjg6Y2RubGl2ZXR2LmlzOjBmMDIyN2Q5MzE2MTg4NDEuZGYyMTQzNGEzNDZhNzA1MjUzNjMzNjk2N2RlYTU5YmI1ZjYxNTUyMjUwNjUzNDQ2YjBiYmEwNjI3OWFkMTgzYw
-#EXTINF:-1 tvg-id="Baltimore Orioles" tvg-name="Baltimore Orioles" tvg-logo="https://api.cdnlivetv.is/api/v1/channels/images6318/united-states/baltimore-orioles.png" group-title="US",Baltimore Orioles
+https://cdnlivetv.is/secure/api/v1/6a288d2781d8192bb76cb200/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMjAwOjE3ODQ3NjcwMjE1NDc6Y2RubGl2ZXR2LmlzOjAyYjA4MzVhYzhhNDMzM2UuYWEwZWUwMzg2YTE0OWFiNWYzNmI1MDVmOTQyOTU4ODIyZDIzYzQyNjNhZjdkNTJiZDZlYTNmYjk2Yjc0MDEwOA
+#EXTINF:-1 tvg-id="Boston Red Sox" tvg-name="Boston Red Sox" tvg-logo="https://api.cdnlivetv.is/api/v1/channels/images6318/united-states/boston-red-sox.png" group-title="US",Boston Red Sox
 #EXTVLCOPT:http-origin=https://cdnlivetv.is/
 #EXTVLCOPT:http-referrer=https://cdnlivetv.is/
-https://cdnlivetv.is/secure/api/v1/6a288d2881d8192bb76cb62f/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjJmOjE3ODQ3NTk5OTM0NDU6Y2RubGl2ZXR2LmlzOmQ1ZWYyNGI4MjY5Yjg4NGEuZDk5ZDYwZTQxZDgzOTcwN2Q5OWE5Y2EzYjY1ZjlkMTllNGY5YjhiNzgxNmQyNzQ4MjE0NDFhZjY3NjNjMWQ4Mg
+https://cdnlivetv.is/secure/api/v1/6a288d2881d8192bb76cb62e/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjJlOjE3ODQ3NjcwMjQ0NDU6Y2RubGl2ZXR2LmlzOjNlZDM3NDRlZjdiM2U0ODQuNzU1NjJhNzQ0OGVjNDVjMGEwYmRmOWFjYTgyOWM0YmIxNWQ1ODEwMjI0MmNkMGNmOGRiMmQxNzU2ZTFlMjY5Ng
 #EXTINF:-1 tvg-id="CBS" tvg-name="CBS" tvg-logo="https://api.cdnlivetv.is/api/v1/channels/images6318/united-states/cbs.png" group-title="US",CBS
 #EXTVLCOPT:http-origin=https://cdnlivetv.is/
 #EXTVLCOPT:http-referrer=https://cdnlivetv.is/
-https://cdnlivetv.is/secure/api/v1/6a288d2781d8192bb76cb375/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzc1OjE3ODQ3NTk5OTYwMDY6Y2RubGl2ZXR2LmlzOmU4MGYwNmFkOTk4Mzc2MTYuNDgzNmE5OGI3ZTRjZjMzMmM4MDliNmZiMzI0MzFmYTU2MjViZjBiZGM4ZWMzYzYwOTliYTA5NGI0MzlmMzE0Mw
+https://cdnlivetv.is/secure/api/v1/6a288d2781d8192bb76cb375/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzc1OjE3ODQ3NjcwMjUxNDU6Y2RubGl2ZXR2LmlzOmUzNmFkYzNhZDE1NzY3ZjkuZGRhZGNhNTRiOGU0ODczMjM1ZGEwYzlkMDJlYTVjMGEzNGQxMzI3NjQyM2RiMjUyZTVmOWVkYWI4NzNhOWJhZQ
 #EXTINF:-1 tvg-id="CNBC" tvg-name="CNBC" tvg-logo="https://api.cdnlivetv.is/api/v1/channels/images6318/united-states/cnbc.png" group-title="US",CNBC
 #EXTVLCOPT:http-origin=https://cdnlivetv.is/
 #EXTVLCOPT:http-referrer=https://cdnlivetv.is/
-https://cdnlivetv.is/secure/api/v1/6a288d2781d8192bb76cb492/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiNDkyOjE3ODQ3NTk5OTgxOTc6Y2RubGl2ZXR2LmlzOmQ5M2FjMmFmNzJlOTVmNzAuODU3MWYwZTJjZjA2Yjc0NWJlOGEzMzU0MWVlOTk3ODI3OWFkNzlhOTc3NDkzODMwMDAzOGYxYmUxN2JiNzFhYw
+https://cdnlivetv.is/secure/api/v1/6a288d2781d8192bb76cb492/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiNDkyOjE3ODQ3NjcwMjcyNzM6Y2RubGl2ZXR2LmlzOjM4YTkwZmU5NzRjMTIyNDkuNjI1Y2JiYzFhM2NhMmRiMjZiNTZlMjgyMDRmYmRiZDIyZDg5OWVlZmJjZTFmMGU3ZTk5ODU4YjgwMzczMGYxZA
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://api.cdnlivetv.is/api/v1/channels/images6318/united-states/cnn.png" group-title="US",CNN
 #EXTVLCOPT:http-origin=https://cdnlivetv.is/
 #EXTVLCOPT:http-referrer=https://cdnlivetv.is/
-https://cdnlivetv.is/secure/api/v1/6a288d2781d8192bb76cb490/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiNDkwOjE3ODQ3NTk5OTg5MTg6Y2RubGl2ZXR2LmlzOmY0NzM0NTQzNjRjZjU4MGQuMDliNTViNTY4ZjZlOTc4YTZjYjE2NWQ0YWRjNTBiMDBlYmQwNWMzMDJlYmYyMzNmZGFjZjliMTc2ODg4NDY4Mg
+https://cdnlivetv.is/secure/api/v1/6a288d2781d8192bb76cb490/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiNDkwOjE3ODQ3NjcwMjgwMDM6Y2RubGl2ZXR2LmlzOjlkMjkxMzJkMTMyYjc1ZTQuYjA0ZjkwOTg3Nzc0ZThhMjBiMWY1NjdiNDJkYWYyNzI0YjRmOTNlYTA5ODQ1M2JkOGY4NmY3MDg3Y2ZkOTEyYw
 #EXTINF:-1 tvg-id="CP24" tvg-name="CP24" tvg-logo="https://api.cdnlivetv.is/api/v1/channels/images6318/canada/cp24.png" group-title="CA",CP24
 #EXTVLCOPT:http-origin=https://cdnlivetv.is/
 #EXTVLCOPT:http-referrer=https://cdnlivetv.is/
-https://cdnlivetv.is/secure/api/v1/6a288d2a81d8192bb76cc0bf/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMGJmOjE3ODQ3NTk5OTk2NDA6Y2RubGl2ZXR2LmlzOmNiZmExZTg5YWU5N2I1NjEuNDJhYzdiNTJkZTQ1ZWUyNmExYmVkZWUyNzcwZTgyMzc1NTgyNGM2NTViZDdlYWEzYTZlMjI2MWU1OWZmZGNjYw
-#EXTINF:-1 tvg-id="Canal Sport" tvg-name="Canal Sport" tvg-logo="https://api.cdnlivetv.is/api/v1/channels/images6318/czech-republic/canal-sport.png" group-title="CZ",Canal Sport
-#EXTVLCOPT:http-origin=https://cdnlivetv.is/
-#EXTVLCOPT:http-referrer=https://cdnlivetv.is/
-https://cdnlivetv.is/secure/api/v1/6a288d2c81d8192bb76cd303/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkMzAzOjE3ODQ3NjAwMjQ0ODU6Y2RubGl2ZXR2LmlzOmQ2MWQ3MjFmNzU3ZjliZTQuYTVkZWFlYjQ1NmFmYmIwZWI5OWYzM2QzYzFlZGRiZmY1ZmE5MGI1ZGFlMGE4MGI2NjViZGVlOGYxYmM1ZmM2NQ
+https://cdnlivetv.is/secure/api/v1/6a288d2a81d8192bb76cc0bf/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMGJmOjE3ODQ3NjcwMjg3MTU6Y2RubGl2ZXR2LmlzOmIwZTRmZmIzY2NhZWM1NDAuNDYyMjNkYWQwMTZiNjU1NTNmYzY1ZTkzYjIwYTZiNWMwOGZjODE4ZjQ4Y2ZlZGVmZWY0YTc3OWQwNjM0Y2JiOQ
 #EXTINF:-1 tvg-id="Channel 4" tvg-name="Channel 4" tvg-logo="https://api.cdnlivetv.is/api/v1/channels/images6318/united-kingdom/channel-4.png" group-title="GB",Channel 4
 #EXTVLCOPT:http-origin=https://cdnlivetv.is/
 #EXTVLCOPT:http-referrer=https://cdnlivetv.is/
-https://cdnlivetv.is/secure/api/v1/6a288d2a81d8192bb76cc380/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzgwOjE3ODQ3NjAwMjk1NDY6Y2RubGl2ZXR2LmlzOmQ1NjViYjg2MmU4MWYxYTkuNDdhNWQ3YTIxMWI5NzMxYmNiZTAzZDBkYjk1N2U3M2JkNjk4YjZmZDNiM2JhNGFhNzFiNjFjNTg4MmY2NmZjZA
+https://cdnlivetv.is/secure/api/v1/6a288d2a81d8192bb76cc380/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzgwOjE3ODQ3NjcwNTQ1NjQ6Y2RubGl2ZXR2LmlzOmQzYjlhNDVlYzg1ZWM5YzguZDM0NDdkYWMwZGU0N2I0YTM4YjgwZWM3M2YzZDBmY2NkNDU0ZTNlZmM5M2RhODY4NDVmNWYzMGE0MWZhNjJiZQ
 #EXTINF:-1 tvg-id="Cytavision Sports 1" tvg-name="Cytavision Sports 1" tvg-logo="https://api.cdnlivetv.is/api/v1/channels/images6318/cy/cytavision-sports-1.png" group-title="CY",Cytavision Sports 1
 #EXTVLCOPT:http-origin=https://cdnlivetv.is/
 #EXTVLCOPT:http-referrer=https://cdnlivetv.is/
-https://cdnlivetv.is/secure/api/v1/6a288d2c81d8192bb76cd72d/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkNzJkOjE3ODQ3NjAwNDMzMjI6Y2RubGl2ZXR2LmlzOjljYTgxOTY2NTViYjRmNWYuMmI1MTA2ZTRhMTRiMTlmYzA0MWQ5YzQ5NDI2MWQ0YmI0ZmM0ODcwZjRjOGM2YjRjODA1MjEwNThiNTk3YmMzMA
+https://cdnlivetv.is/secure/api/v1/6a288d2c81d8192bb76cd72d/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkNzJkOjE3ODQ3NjcwNjgxODg6Y2RubGl2ZXR2LmlzOmNiNGYyNDUyYjc2ZDhmN2MuYjU2NzQwN2I4NDg2MGJkZmNkMzYzNmQ4ZWMxZDViZjgyN2Y3ODMxNjZmNjlkYzhlNWE0ZjE2NTJmZmRhODhlYQ
 #EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="https://api.cdnlivetv.is/api/v1/channels/images6318/united-states/discovery-channel.png" group-title="US",Discovery Channel
 #EXTVLCOPT:http-origin=https://cdnlivetv.is/
 #EXTVLCOPT:http-referrer=https://cdnlivetv.is/
-https://cdnlivetv.is/secure/api/v1/6a288d2a81d8192bb76cc485/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjNDg1OjE3ODQ3NjAwNjQ0ODk6Y2RubGl2ZXR2LmlzOjI0ZjA4NWFiY2VjM2NmNTAuNmQzN2Y0OWEwMmViNGIzZTM4NDJhODYzZDE3YTU4YmU3NzQ4NmVmNjk0OTZhN2Q2ZGMzOGFkOTViOWQxOGJmMg
+https://cdnlivetv.is/secure/api/v1/6a288d2a81d8192bb76cc485/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjNDg1OjE3ODQ3NjcwODkwMDI6Y2RubGl2ZXR2LmlzOjY2YjU2NWFhM2M5ODRjNGYuNDIwYzE0Yjk3YjdhNmRkNmMzOTE2OWE2MGY2YjZhODRhZGY5YzczMmFlMDg4Yzg0YzMwMTcwOTJmZWRlMjhjZA
 #EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="https://api.cdnlivetv.is/api/v1/channels/images6318/united-states/disney-channel.png" group-title="US",Disney Channel
 #EXTVLCOPT:http-origin=https://cdnlivetv.is/
 #EXTVLCOPT:http-referrer=https://cdnlivetv.is/
-https://cdnlivetv.is/secure/api/v1/6a288d2781d8192bb76cb415/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiNDE1OjE3ODQ3NjAwNjUyMTI6Y2RubGl2ZXR2LmlzOjFkNzVjYmU0ZjhhZDMzMTYuYTFiZDMyZTc5OWJjY2QxNGFlMDE4Y2NkODJiZmJhMDBjY2ZhMTI3ZWVhYmNhODU1MWQ3N2RjYWJmYmEzNDE5Ng
+https://cdnlivetv.is/secure/api/v1/6a288d2781d8192bb76cb415/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiNDE1OjE3ODQ3NjcwODk3MDM6Y2RubGl2ZXR2LmlzOjIwZmZlOWIyNmMzYmQ5YjQuN2JlYWJjZTY1N2FlMjQ0NjUwZmZiNjdjNzZkM2Q1OTkzNGVlNjY4YWY3N2I0ZmUxYzAxMzJjYjljYmQ0MzIzNw
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://api.cdnlivetv.is/api/v1/channels/images6318/united-states/espn-2.png" group-title="US",ESPN 2
 #EXTVLCOPT:http-origin=https://cdnlivetv.is/
 #EXTVLCOPT:http-referrer=https://cdnlivetv.is/
-https://cdnlivetv.is/secure/api/v1/6a288d2881d8192bb76cb59c/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNTljOjE3ODQ3NjAwNjg4NjI6Y2RubGl2ZXR2LmlzOmZiMTkzMWNhZTFiNDI4NzUuYzNhNTAyNDM4ZmNjNjhiYTMzNWM5NmY1YmFjNmE4ZTQyZDk0Y2JjOGNmZWMyMzg4NDNmMGVkMDk1OGJmYWY4Yw
+https://cdnlivetv.is/secure/api/v1/6a288d2881d8192bb76cb59c/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNTljOjE3ODQ3NjcwOTMzMTU6Y2RubGl2ZXR2LmlzOjE4NmMyOTExMjFmZTU3YTkuNzNjNTdmNmMzYjkwZDhhMzU5NDdiMmFhNDM5ODIyYTdjMjIyYzU5M2U4YTVmOGY1NTI3N2RmNjAyOTEwMjE5MA
+#EXTINF:-1 tvg-id="ESPN Deportes" tvg-name="ESPN Deportes" tvg-logo="https://api.cdnlivetv.is/api/v1/channels/images6318/united-states/espn-deportes.png" group-title="US",ESPN Deportes
+#EXTVLCOPT:http-origin=https://cdnlivetv.is/
+#EXTVLCOPT:http-referrer=https://cdnlivetv.is/
+https://cdnlivetv.is/secure/api/v1/6a288d2781d8192bb76cb34c/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzRjOjE3ODQ3NjcwOTkxMDg6Y2RubGl2ZXR2LmlzOmZiZGNlMjBlNmE4NGQzMGIuMDJkNTJmN2FhMTMyZWNiZDZlZjhlNWRmZjFjYzM4Y2Y2YjZmMTYxYThiZTExOTZkMjRlNWQ1NzkxOTI5ZGM2ZA
 #EXTINF:-1 tvg-id="ESPN News" tvg-name="ESPN News" tvg-logo="https://api.cdnlivetv.is/api/v1/channels/images6318/united-states/espn-news.png" group-title="US",ESPN News
 #EXTVLCOPT:http-origin=https://cdnlivetv.is/
 #EXTVLCOPT:http-referrer=https://cdnlivetv.is/
-https://cdnlivetv.is/secure/api/v1/6a288d2881d8192bb76cb5a0/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWEwOjE3ODQ3NjAwNzU0MDE6Y2RubGl2ZXR2LmlzOmIzMmJiYTVmOTE5NjhjYjYuYjg4YWVhMTFjMmM3MDYxNDI3MDBlZTY5OTc4OWUzMGQ4YzhjOTBkODA2MWNjYjczYjNmN2I3YzQxNzJiZmM1Yg
+https://cdnlivetv.is/secure/api/v1/6a288d2881d8192bb76cb5a0/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWEwOjE3ODQ3NjcwOTk4MDU6Y2RubGl2ZXR2LmlzOjUyMTE5OGFmN2NlMjAxMzkuZWM1YzI5NWM5NGFlZDM4NjcxYWIxZDEwZmQzYmViNzQ4ZDkwNmZkNTVmMDI3Mzg5YjI1N2ExODI2Yzk5YjIxMw
 #EXTINF:-1 tvg-id="FOX" tvg-name="FOX" tvg-logo="https://api.cdnlivetv.is/api/v1/channels/images6318/united-states/fox.png" group-title="US",FOX
 #EXTVLCOPT:http-origin=https://cdnlivetv.is/
 #EXTVLCOPT:http-referrer=https://cdnlivetv.is/
-https://cdnlivetv.is/secure/api/v1/6a288d2781d8192bb76cb38e/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzhlOjE3ODQ3NjAwODU2MDE6Y2RubGl2ZXR2LmlzOmZhN2U2MDYwNjllMjA1ZjUuOGUxZmY5ZThhMmY2YTYwMGQwZjhiMjE0YjdjOTNjYmNjNThjMjVhMzlmNDY4MjRiYzA1ODZlMGViYzVhNmRhYw
+https://cdnlivetv.is/secure/api/v1/6a288d2781d8192bb76cb38e/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzhlOjE3ODQ3NjcxMDk4ODA6Y2RubGl2ZXR2LmlzOjRjMzI3ZjAwMjZiY2FlMzQuZGJkZTk2OGQyMjQ2ODgwYTgzOWUxZDU1ZmQxMTAwNWNhNTI4OWNiYTNiOWFjMDg5NGQ3MzUzZDRiMTZlNWZhYQ
 #EXTINF:-1 tvg-id="FOX News" tvg-name="FOX News" tvg-logo="https://api.cdnlivetv.is/api/v1/channels/images6318/united-states/fox-news.png" group-title="US",FOX News
 #EXTVLCOPT:http-origin=https://cdnlivetv.is/
 #EXTVLCOPT:http-referrer=https://cdnlivetv.is/
-https://cdnlivetv.is/secure/api/v1/6a288d2781d8192bb76cb224/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMjI0OjE3ODQ3NjAwODcwNTY6Y2RubGl2ZXR2LmlzOmMyMTJhNDViODY2NDUyM2IuNTZjNjQyMTJiYTUwMGM1MzYwYTFhMzFiZDhjODAwYzQxZjgwZjBkMmViZmQ3NmViNDliMjJkOTk4MzFjYTU0Mg
+https://cdnlivetv.is/secure/api/v1/6a288d2781d8192bb76cb224/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMjI0OjE3ODQ3NjcxMTEzMjA6Y2RubGl2ZXR2LmlzOmNkODNhYmFmNzdmZjZlZWYuZWI3Nzk0M2M3OTU4MThjODY3M2UyNzViYTI4NjExNmQyZTE3OTJmYWU3ZmQ0Njk2YjY3ZjI1NjNkZTkzNjI1Yg
 #EXTINF:-1 tvg-id="FOX Sports 1" tvg-name="FOX Sports 1" tvg-logo="https://api.cdnlivetv.is/api/v1/channels/images6318/united-states/fox-sports-1.png" group-title="US",FOX Sports 1
 #EXTVLCOPT:http-origin=https://cdnlivetv.is/
 #EXTVLCOPT:http-referrer=https://cdnlivetv.is/
-https://cdnlivetv.is/secure/api/v1/6a288d2881d8192bb76cb5c3/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWMzOjE3ODQ3NjAwODk5Mjc6Y2RubGl2ZXR2LmlzOjBmOTIxMjNhYzI4MWU4YzAuOTdkNDg3ZmUyZGIzMGRiMGU4Y2Q3OThmMGEzMTQ5NTMxMDZkNTI4YTNlYjhiYTAyODc0ZjA3N2U3MTJjODAzZQ
-#EXTINF:-1 tvg-id="Fox Sports 501 Cricket" tvg-name="Fox Sports 501 Cricket" tvg-logo="https://api.cdnlivetv.is/api/v1/channels/images6318/australia/fox-sports-501-cricket.png" group-title="AU",Fox Sports 501 Cricket
-#EXTVLCOPT:http-origin=https://cdnlivetv.is/
-#EXTVLCOPT:http-referrer=https://cdnlivetv.is/
-https://cdnlivetv.is/secure/api/v1/6a288d2f81d8192bb76cf203/playlist.m3u8?token=NmEyODhkMmY4MWQ4MTkyYmI3NmNmMjAzOjE3ODQ3NjAwOTcxNTk6Y2RubGl2ZXR2LmlzOjczZDVkOGIwMGRhNzVjZTEuOTYxNmRiMGNhNzdlOTgyNGExMTE5YzUyZTQ0MThiMDgxZGU1NzhhOTdlYWJiMGMxOTcwNGFiZjRkMWIwNWEyNQ
-#EXTINF:-1 tvg-id="Hallmark" tvg-name="Hallmark" tvg-logo="https://api.cdnlivetv.is/api/v1/channels/images6318/united-states/hallmark.png" group-title="US",Hallmark
-#EXTVLCOPT:http-origin=https://cdnlivetv.is/
-#EXTVLCOPT:http-referrer=https://cdnlivetv.is/
-https://cdnlivetv.is/secure/api/v1/6a288d2781d8192bb76cb232/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMjMyOjE3ODQ3NjAxMDUxMzg6Y2RubGl2ZXR2LmlzOmNmNzk1OTllYzg4NzE3MGQuMzRkMWRiZjAyOTYxNzlhMDQwMjU1OTQyMWFiNmY5ZjRmOGQwMjcxMmQ2NTUzZjk1ZjE0NGFmMjg0NjZlNGI4YQ
+https://cdnlivetv.is/secure/api/v1/6a288d2881d8192bb76cb5c3/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWMzOjE3ODQ3NjcxMTQyODU6Y2RubGl2ZXR2LmlzOjE2YzkwZGJmNWUxMDZmZDAuZDA2OTA3MTg2ZTdhMzQ3ZWFkMjY3MTNmN2EwNWRmYWZmNWZmMjAzNmE2NjNjM2YyM2VlYjdiMjkzYzM4ZTcyOA
 #EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="https://api.cdnlivetv.is/api/v1/channels/images6318/united-states/history.png" group-title="US",History
 #EXTVLCOPT:http-origin=https://cdnlivetv.is/
 #EXTVLCOPT:http-referrer=https://cdnlivetv.is/
-https://cdnlivetv.is/secure/api/v1/6a288d2781d8192bb76cb3a7/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiM2E3OjE3ODQ3NjAxMDU4NzA6Y2RubGl2ZXR2LmlzOjU5ZGJkYzhjMzMyMmM1ZDAuOWZkMmI3MWRjYWM1OTIwYmY3NmJmYTYxYTNkNGFkODczMmMzZmE4MzdlZDE4YTI3NGZlMjRhOTI0ZTYxMjQ4ZQ
+https://cdnlivetv.is/secure/api/v1/6a288d2781d8192bb76cb3a7/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiM2E3OjE3ODQ3NjcxMzAwODE6Y2RubGl2ZXR2LmlzOmRlOWQ0YTJhNTJlNGQ2YzMuNTg1ZjlkMTkxYjU3M2M3NzY0MzA4MTJlYjAzNzk2MGNlZWM1Yzk2ZmJmNmYzYzcwZDYyOWQ4YzE4MWFmYzZmNQ
 #EXTINF:-1 tvg-id="ITV 1" tvg-name="ITV 1" tvg-logo="https://api.cdnlivetv.is/api/v1/channels/images6318/united-kingdom/itv-1.png" group-title="GB",ITV 1
 #EXTVLCOPT:http-origin=https://cdnlivetv.is/
 #EXTVLCOPT:http-referrer=https://cdnlivetv.is/
-https://cdnlivetv.is/secure/api/v1/6a288d2a81d8192bb76cc387/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzg3OjE3ODQ3NjAxMDczMTc6Y2RubGl2ZXR2LmlzOjlkMDJjNTYwYzExYjZlZTguYjlmMDhiODdlY2JkMGFmNjY4Y2ZkMzhjM2I3M2ZkNzgwYjk4OWI4M2RiYWNhZGFjMGJjZDUxMzlkNjlmN2UzMQ
+https://cdnlivetv.is/secure/api/v1/6a288d2a81d8192bb76cc387/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzg3OjE3ODQ3NjcxMzE1MzI6Y2RubGl2ZXR2LmlzOjE3M2E1YjI5MjhlMDJhZjAuZDk3ODRjMDgzOWJlZTVkY2E0MGVjMGQ4YjIwODI4OTNmMmYyZmE1ZTZlZjE0MDU5NzQzOTkzNTE1MTA1YTIwMQ
+#EXTINF:-1 tvg-id="ITV 2" tvg-name="ITV 2" tvg-logo="https://api.cdnlivetv.is/api/v1/channels/images6318/united-kingdom/itv-2.png" group-title="GB",ITV 2
+#EXTVLCOPT:http-origin=https://cdnlivetv.is/
+#EXTVLCOPT:http-referrer=https://cdnlivetv.is/
+https://cdnlivetv.is/secure/api/v1/6a288d2a81d8192bb76cc38a/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzhhOjE3ODQ3NjcxMzIzNTE6Y2RubGl2ZXR2LmlzOjJhNTBlMDhmYWQzMjY5MDkuODA4ZjAwMTMzOTgyOGY1M2EwZGJjNDk2ZTQ4OGE2MGM1YWM4NzVkNzE1NzJlMTIxOWJmYTg5NjJjMjQ2NjhkMg
 #EXTINF:-1 tvg-id="MASN" tvg-name="MASN" tvg-logo="https://api.cdnlivetv.is/api/v1/channels/images6318/united-states/masn.png" group-title="US",MASN
 #EXTVLCOPT:http-origin=https://cdnlivetv.is/
 #EXTVLCOPT:http-referrer=https://cdnlivetv.is/
-https://cdnlivetv.is/secure/api/v1/6a288d2781d8192bb76cb4dc/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiNGRjOjE3ODQ3NjAxMTQ1NDg6Y2RubGl2ZXR2LmlzOjgwODJkMjU4ZjM4OTg4YmIuYzVlYjVkZTNjZWJkODJhMGM3MTc4MTBiMTQxZjIyNjk4NzU2ZDhkZDdkODhjMWEzNDkyYzkxYmI0YWVkMzM5ZQ
+https://cdnlivetv.is/secure/api/v1/6a288d2781d8192bb76cb4dc/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiNGRjOjE3ODQ3NjcxMzkxMTI6Y2RubGl2ZXR2LmlzOmIwOGU2OWNiZjlkNWU5ZmIuYTJjZDQzZDhiYjU5M2Q1NjM2MTBlOGFkN2RkYTRhMTNhOTMzYjgzN2Y1YWI5ZTE5NzNjM2IxOWI1MzQ1ZTc4ZQ
 #EXTINF:-1 tvg-id="MLB Network" tvg-name="MLB Network" tvg-logo="https://api.cdnlivetv.is/api/v1/channels/images6318/united-states/mlb-network.png" group-title="US",MLB Network
 #EXTVLCOPT:http-origin=https://cdnlivetv.is/
 #EXTVLCOPT:http-referrer=https://cdnlivetv.is/
-https://cdnlivetv.is/secure/api/v1/6a288d2881d8192bb76cb5cf/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWNmOjE3ODQ3NjAxMTY3MjI6Y2RubGl2ZXR2LmlzOjhhOGVmZmQ4MjYwOThhMTguYjZlMmIyMzA3MDNkZTQwNGU2MTFjZTU3MjRkNWZkMWZlMDMyNjU4ODA3MWIxNTI1NTRhMDNiYWIwYjU5Y2YyNw
+https://cdnlivetv.is/secure/api/v1/6a288d2881d8192bb76cb5cf/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWNmOjE3ODQ3NjcxNDEyOTA6Y2RubGl2ZXR2LmlzOmNmNzhiZjQ1NGY4YzFhMjguYjY1MDhhNGE5NTE3NzllYzU1OTk4NWEzZjRmZTg4NWIyZDZkODg5ZDM0ODgwNGM2OGExZTkyNzg0MzczNTI0YQ
+#EXTINF:-1 tvg-id="Marquee Sports Network" tvg-name="Marquee Sports Network" tvg-logo="https://api.cdnlivetv.is/api/v1/channels/images6318/united-states/marquee-sports-network.png" group-title="US",Marquee Sports Network
+#EXTVLCOPT:http-origin=https://cdnlivetv.is/
+#EXTVLCOPT:http-referrer=https://cdnlivetv.is/
+https://cdnlivetv.is/secure/api/v1/6a288d2881d8192bb76cb5ce/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWNlOjE3ODQ3NjcxNDI2OTk6Y2RubGl2ZXR2LmlzOmU5ZWFjMWVkMGE3Y2Q1MjMuODgwMWFkNDVkNjc3YjI3NDQ5ZGMxOGE1ODhlOWQ3ZjQ0N2Q2OWI4MGJmM2FlZmE0ZTE5ZGQ1NTUyMGFmMWZkZg
 #EXTINF:-1 tvg-id="Milwaukee Brewers" tvg-name="Milwaukee Brewers" tvg-logo="https://api.cdnlivetv.is/api/v1/channels/images6318/united-states/milwaukee-brewers.png" group-title="US",Milwaukee Brewers
 #EXTVLCOPT:http-origin=https://cdnlivetv.is/
 #EXTVLCOPT:http-referrer=https://cdnlivetv.is/
-https://cdnlivetv.is/secure/api/v1/6a288d2881d8192bb76cb613/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjEzOjE3ODQ3NjAxMjc1ODE6Y2RubGl2ZXR2LmlzOjg4NjIzOWYwYjlmYjg0YjIuMDY1YjY3NTZjY2E2OTFjZjdhZWEzZmE3NGEyMGY3ZDk4ZGIyMGY3ZjViZDBkYTU0ZGI4NzBlNmEzZTkyM2JlMQ
-#EXTINF:-1 tvg-id="Minnesota Twins" tvg-name="Minnesota Twins" tvg-logo="https://api.cdnlivetv.is/api/v1/channels/images6318/united-states/minnesota-twins.png" group-title="US",Minnesota Twins
-#EXTVLCOPT:http-origin=https://cdnlivetv.is/
-#EXTVLCOPT:http-referrer=https://cdnlivetv.is/
-https://cdnlivetv.is/secure/api/v1/6a288d2881d8192bb76cb624/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjI0OjE3ODQ3NjAxMjgzMjQ6Y2RubGl2ZXR2LmlzOjk4NzBmY2MxOTc2NTA1Y2UuZDBjZjAwN2NhZDI3ZDZjN2JkYTUwY2VlNmFhMzIxMTVjZDU1ZmRkZDFlNDdjNWY1OGZiODBkZjVkNDllYmI3Nw
-#EXTINF:-1 tvg-id="NBC" tvg-name="NBC" tvg-logo="https://api.cdnlivetv.is/api/v1/channels/images6318/united-states/nbc.png" group-title="US",NBC
-#EXTVLCOPT:http-origin=https://cdnlivetv.is/
-#EXTVLCOPT:http-referrer=https://cdnlivetv.is/
-https://cdnlivetv.is/secure/api/v1/6a288d2781d8192bb76cb3d1/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiM2QxOjE3ODQ3NjAxMzQxMzU6Y2RubGl2ZXR2LmlzOjUzY2E3ZWRmMTE1OWFkMjkuOTExN2FjMTUzOTQ0NzE1YjNhM2FlOThjYTUyMmJlNjllNTc3YzNkMThlMzI4ZDAxYTk2NjA2M2UzMjA2NGQ4Yg
+https://cdnlivetv.is/secure/api/v1/6a288d2881d8192bb76cb613/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjEzOjE3ODQ3NjcxNTIzNDY6Y2RubGl2ZXR2LmlzOjAzODM4YTliNzliZTc0NGUuYzYzYzYyNjM4ZDY2ODY0ZTY0NmRkMzA1ZjZkNjYyMmU5NWJlNGMxNDBkYzVjNDQxYmE3NzM4OWYxZTAwYjMzNA
 #EXTINF:-1 tvg-id="NESN" tvg-name="NESN" tvg-logo="https://api.cdnlivetv.is/api/v1/channels/images6318/united-states/nesn.png" group-title="US",NESN
 #EXTVLCOPT:http-origin=https://cdnlivetv.is/
 #EXTVLCOPT:http-referrer=https://cdnlivetv.is/
-https://cdnlivetv.is/secure/api/v1/6a288d2881d8192bb76cb5dc/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWRjOjE3ODQ3NjAxMzU1OTg6Y2RubGl2ZXR2LmlzOjUwMzcyNDM1YThkODM4OWYuMzkyODkyYmQ5OTMyMDEyMTY4MjVjOTBhNGQ3YWJiZGY4M2I2N2M2ZjM3MzZmZGYzMTIyNmYwZDRjZTA4MWJmMg
-#EXTINF:-1 tvg-id="NFL Network" tvg-name="NFL Network" tvg-logo="https://api.cdnlivetv.is/api/v1/channels/images6318/united-states/nfl-network.png" group-title="US",NFL Network
-#EXTVLCOPT:http-origin=https://cdnlivetv.is/
-#EXTVLCOPT:http-referrer=https://cdnlivetv.is/
-https://cdnlivetv.is/secure/api/v1/6a288d2881d8192bb76cb65d/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjVkOjE3ODQ3NjAxMzYzMTI6Y2RubGl2ZXR2LmlzOmViZDBiNzg4YzNiNTU2NDMuMjE5NTVkYWE0YjAzMzRhYmYzOWQ2NDg5OTA5ZTU1OTRmMWMxMDUwYjdjNDgwODMwNTdmNmE0ODBhZGE3OWNmMw
+https://cdnlivetv.is/secure/api/v1/6a288d2881d8192bb76cb5dc/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWRjOjE3ODQ3NjcxNjAyNjA6Y2RubGl2ZXR2LmlzOmJiZTE1YjQ2Zjg5M2M0MGUuOTc4ZmYwYTlmZTc3NGMzZGI4ZDdiOThiZDUyOWM2MmRlYzc4OWQ1YWNkODMxOTg3NTU3ZDZlN2MzMmU2NTdkMQ
 #EXTINF:-1 tvg-id="National Geographic" tvg-name="National Geographic" tvg-logo="https://api.cdnlivetv.is/api/v1/channels/images6318/united-states/national-geographic.png" group-title="US",National Geographic
 #EXTVLCOPT:http-origin=https://cdnlivetv.is/
 #EXTVLCOPT:http-referrer=https://cdnlivetv.is/
-https://cdnlivetv.is/secure/api/v1/6a288d2a81d8192bb76cc47e/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjNDdlOjE3ODQ3NjAxMzc3NjQ6Y2RubGl2ZXR2LmlzOjI3ZDM5YWNmOTdiNTMxODYuOGE4YWNiMWY3ZWM3NjljZTdjMjBjZTMyY2MzNjdiOTE3Y2QwMTZkYWE3NjI3ZGE2ZmFhM2RkYjg5MjY0NjQxOQ
+https://cdnlivetv.is/secure/api/v1/6a288d2a81d8192bb76cc47e/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjNDdlOjE3ODQ3NjcxNjI0MTQ6Y2RubGl2ZXR2LmlzOjM1NDZhYjNjNmZjMzZlYWIuMDI1YTdhN2M0MjI1ZDE5NzYxMzc2ZDA4NTNjYTkzNDczYjlhMGVhZmZmY2E4NjE2MmVhZDdkNjBjNTE2MmMzNg
 #EXTINF:-1 tvg-id="New York Yankees" tvg-name="New York Yankees" tvg-logo="https://api.cdnlivetv.is/api/v1/channels/images6318/united-states/new-york-yankees.png" group-title="US",New York Yankees
 #EXTVLCOPT:http-origin=https://cdnlivetv.is/
 #EXTVLCOPT:http-referrer=https://cdnlivetv.is/
-https://cdnlivetv.is/secure/api/v1/6a288d2881d8192bb76cb623/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjIzOjE3ODQ3NjAxMzkyMDY6Y2RubGl2ZXR2LmlzOmY3YmI5ZDYxMDk4ZTU5ZTkuY2U1ZTg5NWQ3YmE5NWJmNWExMzM2NzY4OTQzMmE0YmFjYTNhMjg4Mzc5YjlmZTBkZmUwMDQzZTVkNTVjMmJhMg
+https://cdnlivetv.is/secure/api/v1/6a288d2881d8192bb76cb623/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjIzOjE3ODQ3NjcxNjM4NTk6Y2RubGl2ZXR2LmlzOjYzOGUyYjg5YzcwOTkzOTQuMTllZGJhMjEwYWQwZTc2Zjg3YjIyZWQyNGRjOTk5M2YyYmI1OTIzZDc5ZWM5ZTBmNTA1Y2Y4OWUzZmNiZTA2OA
+#EXTINF:-1 tvg-id="Pittsburgh Pirates" tvg-name="Pittsburgh Pirates" tvg-logo="https://api.cdnlivetv.is/api/v1/channels/images6318/united-states/pittsburgh-pirates.png" group-title="US",Pittsburgh Pirates
+#EXTVLCOPT:http-origin=https://cdnlivetv.is/
+#EXTVLCOPT:http-referrer=https://cdnlivetv.is/
+https://cdnlivetv.is/secure/api/v1/6a288d2881d8192bb76cb621/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjIxOjE3ODQ3NjcxNzk0MzA6Y2RubGl2ZXR2LmlzOmRkODljMWQ5ZGRjYTA0ZTguOGIyZDY0OGMwOTY5NDlmN2M2NDZkOWE0YzBiNTE5MTk1NDE1YjBjMDVmZDk2YzhhMzY3ODI5Y2FlNTNmMGM4Mw
 #EXTINF:-1 tvg-id="Polsat Sport 3" tvg-name="Polsat Sport 3" tvg-logo="https://api.cdnlivetv.is/api/v1/channels/images6318/poland/polsat-sport-3.png" group-title="PL",Polsat Sport 3
 #EXTVLCOPT:http-origin=https://cdnlivetv.is/
 #EXTVLCOPT:http-referrer=https://cdnlivetv.is/
-https://cdnlivetv.is/secure/api/v1/6a288d2c81d8192bb76cd375/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkMzc1OjE3ODQ3NjAxNTY3NDM6Y2RubGl2ZXR2LmlzOjZlY2I5N2Q1N2E3OTYxOTUuNmNmYTk3OTNmOWFmMDM1ZTgzNjY5NjA1ZjI5OWMwZjI0MDMwOWEyMzUxNDA5Y2RmNzU1YjU2ZDk1ZGIyYjNiZA
-#EXTINF:-1 tvg-id="SEC Network" tvg-name="SEC Network" tvg-logo="https://api.cdnlivetv.is/api/v1/channels/images6318/united-states/sec-network.png" group-title="US",SEC Network
+https://cdnlivetv.is/secure/api/v1/6a288d2c81d8192bb76cd375/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkMzc1OjE3ODQ3NjcxODMxNDA6Y2RubGl2ZXR2LmlzOjU5MDNiNTUyZDg5ZDZhYWEuZTdlZjNjYTFjOTFmNDdlMzljOWNhODc2NDlmYjExM2Q0ZGE0MzM0YzYyYTYwZDU1ODE2NGM2YzZlY2Q3MmVkMw
+#EXTINF:-1 tvg-id="Premier Sports 1" tvg-name="Premier Sports 1" tvg-logo="https://api.cdnlivetv.is/api/v1/channels/images6318/united-kingdom/premier-sports-1.png" group-title="GB",Premier Sports 1
 #EXTVLCOPT:http-origin=https://cdnlivetv.is/
 #EXTVLCOPT:http-referrer=https://cdnlivetv.is/
-https://cdnlivetv.is/secure/api/v1/6a288d2781d8192bb76cb3bb/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiM2JiOjE3ODQ3NjAxNzc4Mjc6Y2RubGl2ZXR2LmlzOjdmMDcxMDAzZDA4NmZlMjkuM2JkY2NmZWJkYzc2ZWQ4MmE1MGExN2RkZGE4MWU2YjBmZGFkNWM5Mzg2ZDA1NmFjMDc1YjI0ZDBmZDNkOTRmZQ
-#EXTINF:-1 tvg-id="Showtime" tvg-name="Showtime" tvg-logo="https://api.cdnlivetv.is/api/v1/channels/images6318/united-states/showtime.png" group-title="US",Showtime
+https://cdnlivetv.is/secure/api/v1/6a288d2a81d8192bb76cc35e/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzVlOjE3ODQ3NjcxODYyODc6Y2RubGl2ZXR2LmlzOmI1MTdhZjA3N2QzNDlmYTQuOTk5M2FlM2NlZTMzMjNjY2RlOGRmYzQ3OTJmM2Y3OWM2ZWU2OTYxNzVjZTA5ZTFiMzE2OTIyNzU0NTQ4YzA4Yg
+#EXTINF:-1 tvg-id="RTL" tvg-name="RTL" tvg-logo="https://api.cdnlivetv.is/api/v1/channels/images6318/germany/rtl.png" group-title="DE",RTL
 #EXTVLCOPT:http-origin=https://cdnlivetv.is/
 #EXTVLCOPT:http-referrer=https://cdnlivetv.is/
-https://cdnlivetv.is/secure/api/v1/6a288d2781d8192bb76cb465/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiNDY1OjE3ODQ3NjAxODQ0Mzk6Y2RubGl2ZXR2LmlzOjVhNGU0OTE1OTdkZDQ5NTUuYmU0NTg2MjQ1ZDQ2N2U4YjA3NzcyMjdiZjQxMzg1ZjhkZmY1NDA3ODgzMWY1NGExMmQxYTcyZGJmZWYwYjc5Zg
+https://cdnlivetv.is/secure/api/v1/6a288d2b81d8192bb76ccac4/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjYWM0OjE3ODQ3NjcxOTkxNjk6Y2RubGl2ZXR2LmlzOmQ2MjU0OWU0Y2RjN2JjODkuZjgwMzUyZmUyOTlkYzhkYWRkMjk3NzdlYTM3MzIxMTFmMWQ1ODlmOTdkNmM0Zjk5MTg2ZWY1OGYyMzgxN2Y5Yg
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="RTP 1" tvg-logo="https://api.cdnlivetv.is/api/v1/channels/images6318/portugal/rtp-1.png" group-title="PT",RTP 1
+#EXTVLCOPT:http-origin=https://cdnlivetv.is/
+#EXTVLCOPT:http-referrer=https://cdnlivetv.is/
+https://cdnlivetv.is/secure/api/v1/6a288d2c81d8192bb76cd3d8/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkM2Q4OjE3ODQ3NjcxOTk4NzI6Y2RubGl2ZXR2LmlzOjQ2M2EwNmE4ZTkyNWM3NWUuOTFjN2VhYTc4ZDQ0MDBmYjM0MDRhNTU5ZDBhNzVmZjZhYmY4MDkyNWFhOTIwZGRhZTg1NWE2YTlkYTI2ZDMyNA
 #EXTINF:-1 tvg-id="Sky Sport 1" tvg-name="Sky Sport 1" tvg-logo="https://api.cdnlivetv.is/api/v1/channels/images6318/new-zealand/sky-sport-1.png" group-title="NZ",Sky Sport 1
 #EXTVLCOPT:http-origin=https://cdnlivetv.is/
 #EXTVLCOPT:http-referrer=https://cdnlivetv.is/
-https://cdnlivetv.is/secure/api/v1/6a288d2f81d8192bb76cf222/playlist.m3u8?token=NmEyODhkMmY4MWQ4MTkyYmI3NmNmMjIyOjE3ODQ3NjAxODY2NDA6Y2RubGl2ZXR2LmlzOmY5NGRjOTJjMjU5MWYyMWMuOTJkMDRkYjZmZDY4NjkxNDNkYWFiMmViY2QzNmRmZDhiNDBmOGYxZmI3MGFjMTYxYmRmYjQ1NTllYzAxMjA4Mw
-#EXTINF:-1 tvg-id="Sky Sports Cricket" tvg-name="Sky Sports Cricket" tvg-logo="https://api.cdnlivetv.is/api/v1/channels/images6318/united-kingdom/sky-sports-cricket.png" group-title="GB",Sky Sports Cricket
+https://cdnlivetv.is/secure/api/v1/6a288d2f81d8192bb76cf222/playlist.m3u8?token=NmEyODhkMmY4MWQ4MTkyYmI3NmNmMjIyOjE3ODQ3NjcyMTU3NzY6Y2RubGl2ZXR2LmlzOmE5ZGE3ODliZDc5MWNkYWMuNTAwOTM5YzRmZDNhNjljMzViYzMyNDQ4ZjYyM2JiYjc5N2M4MDE3MjM2YTNjOWQ1Mzk2MTRiMmIyOTc5MzE0Mw
+#EXTINF:-1 tvg-id="Sky Sports Action" tvg-name="Sky Sports Action" tvg-logo="https://api.cdnlivetv.is/api/v1/channels/images6318/united-kingdom/sky-sports-action.png" group-title="GB",Sky Sports Action
 #EXTVLCOPT:http-origin=https://cdnlivetv.is/
 #EXTVLCOPT:http-referrer=https://cdnlivetv.is/
-https://cdnlivetv.is/secure/api/v1/6a288d2a81d8192bb76cc31a/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzFhOjE3ODQ3NjAyMTg1Mzc6Y2RubGl2ZXR2LmlzOmVkYjNjZDIwYWRmZDczNWQuYWEyMzE3YzQ0ZDhkOWE0NmE2ZDI0MmY3OTc0NmYzMWUzMGYzMmY0ZTM0NWI2MjgzMTQyMzNlMmExMjIxMTUyOQ
+https://cdnlivetv.is/secure/api/v1/6a288d2a81d8192bb76cc327/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzI3OjE3ODQ3NjcyNDU0MDY6Y2RubGl2ZXR2LmlzOjZmOTJjNmM0ZGE2MzgwZjcuMWFmYmNmOGU5ODI2NTRiMzliN2M1NTcxZGU4ZTk0ODcwMDFjNzZhZmViNDA4ZGU0NmQyZDM0NTMwOTFjYzY1Zg
 #EXTINF:-1 tvg-id="Sky Sports F1" tvg-name="Sky Sports F1" tvg-logo="https://api.cdnlivetv.is/api/v1/channels/images6318/united-kingdom/sky-sports-f1.png" group-title="GB",Sky Sports F1
 #EXTVLCOPT:http-origin=https://cdnlivetv.is/
 #EXTVLCOPT:http-referrer=https://cdnlivetv.is/
-https://cdnlivetv.is/secure/api/v1/6a288d2a81d8192bb76cc315/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzE1OjE3ODQ3NjAyMTkyNDk6Y2RubGl2ZXR2LmlzOmY4MDQzNjAzZWIxMmY4YTMuMGZiZDBkODk0MjQ1YjUzMmE0MzBmMGNkZGNkZGJiZTZiMzgyMWY2OGE4ZTlhMTUwNmM0OGE4ZmZhMjI0MWIzNw
+https://cdnlivetv.is/secure/api/v1/6a288d2a81d8192bb76cc315/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzE1OjE3ODQ3NjcyNDc1MTI6Y2RubGl2ZXR2LmlzOjZjMzhmODRmMWQzNjM1NGUuOTU2NTRhY2UxMWNlZjRlMGJmODNhNTNlOTEyZDQyZmEwOGIxZTA4ZjgzMTg3NjZmMzcyYmY4OWM3YmQyYTljYQ
+#EXTINF:-1 tvg-id="Sky Sports Football" tvg-name="Sky Sports Football" tvg-logo="https://api.cdnlivetv.is/api/v1/channels/images6318/united-kingdom/sky-sports-football.png" group-title="GB",Sky Sports Football
+#EXTVLCOPT:http-origin=https://cdnlivetv.is/
+#EXTVLCOPT:http-referrer=https://cdnlivetv.is/
+https://cdnlivetv.is/secure/api/v1/6a288d2a81d8192bb76cc340/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzQwOjE3ODQ3NjcyNDgyMTM6Y2RubGl2ZXR2LmlzOjg4NmQ2ODhkYzc5MmYyZjMuNGZjNGYzNzJiMDBkYjJkNWFkZGRlZTAzNjczMmYxZTZhMDczYzJiNDcwMWQ4ZTNhZmM2MGMxZTc2NGU2NzI5Ng
 #EXTINF:-1 tvg-id="Sky Sports Golf" tvg-name="Sky Sports Golf" tvg-logo="https://api.cdnlivetv.is/api/v1/channels/images6318/united-kingdom/sky-sports-golf.png" group-title="GB",Sky Sports Golf
 #EXTVLCOPT:http-origin=https://cdnlivetv.is/
 #EXTVLCOPT:http-referrer=https://cdnlivetv.is/
-https://cdnlivetv.is/secure/api/v1/6a288d2a81d8192bb76cc31d/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzFkOjE3ODQ3NjAyMjA3MDc6Y2RubGl2ZXR2LmlzOjdkNjQyNDRlMWIwNmU3NWUuNzY3MmIxZGM1OTBjMDQ1NTQ3NGE0OGI1MjA0ZWNkYTE5YTVmNjAzZDgyNWY5N2JjM2FhNmJlYmY0Y2IyMWNjNw
+https://cdnlivetv.is/secure/api/v1/6a288d2a81d8192bb76cc31d/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzFkOjE3ODQ3NjcyNDg5MTc6Y2RubGl2ZXR2LmlzOjUwNTY5ZTExYmY1MTJiNmQuY2E0OGJhMzVlODY3NjFkZGQxZWFkMzA1ZjhiMTg5NWFiODlkZmZlMTI1YzdkNzJjNmM0NzM3ZmM2NmIwNzRkYg
 #EXTINF:-1 tvg-id="Sky Sports Main Event" tvg-name="Sky Sports Main Event" tvg-logo="https://api.cdnlivetv.is/api/v1/channels/images6318/united-kingdom/sky-sports-main-event.png" group-title="GB",Sky Sports Main Event
 #EXTVLCOPT:http-origin=https://cdnlivetv.is/
 #EXTVLCOPT:http-referrer=https://cdnlivetv.is/
-https://cdnlivetv.is/secure/api/v1/6a288d2a81d8192bb76cc30f/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzBmOjE3ODQ3NjAyMjE0MjM6Y2RubGl2ZXR2LmlzOjkxZDEwN2IyNGMxYTAzNTkuNGM5Nzk4YjAwOTUwODZkOWYyOTRiMmNhY2U0YTI4Y2E3ZWVlZmM3YWQ4NDhmOTIyMzU0Y2VkOTc1NjdlMzc5Ng
+https://cdnlivetv.is/secure/api/v1/6a288d2a81d8192bb76cc30f/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzBmOjE3ODQ3NjcyNDk2MTc6Y2RubGl2ZXR2LmlzOmQxMjcxNWI5MmViNzI2NjcuN2ZhMTM5NThhZmRjNjU3MDk0MGMzNWZjZjI3MTA2YWM2ZjhhMDNhODUwZDg4ZTlmOTE5ZDgwZDJhMWZkMzAzZQ
 #EXTINF:-1 tvg-id="Sky Sports Tennis" tvg-name="Sky Sports Tennis" tvg-logo="https://api.cdnlivetv.is/api/v1/channels/images6318/united-kingdom/sky-sports-tennis.png" group-title="GB",Sky Sports Tennis
 #EXTVLCOPT:http-origin=https://cdnlivetv.is/
 #EXTVLCOPT:http-referrer=https://cdnlivetv.is/
-https://cdnlivetv.is/secure/api/v1/6a288d2a81d8192bb76cc320/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzIwOjE3ODQ3NjAyMjQzMDY6Y2RubGl2ZXR2LmlzOjdhM2JkYjgxNjJmMGQwYjQuNGEwNDU3YjAxNzQyMjgwN2RhMjI2MGY2MjY3N2NjZTYwODZhMDZjOTEyOWUxOWIwOTAyZjNlYWMyYTRlNzM4ZA
+https://cdnlivetv.is/secure/api/v1/6a288d2a81d8192bb76cc320/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzIwOjE3ODQ3NjcyNTI0NTY6Y2RubGl2ZXR2LmlzOjMyZmU0NjQxNzUxYWRhYWIuMjA3Yjc2NjRlNzA1YmYzODgxYWRlOTcwMWE3NTExZjMxYTNjY2RhYmJjMDg4ZmQ5OTdiYmFhY2NiYzEwZTVkMg
 #EXTINF:-1 tvg-id="Sport TV 1" tvg-name="Sport TV 1" tvg-logo="https://api.cdnlivetv.is/api/v1/channels/images6318/portugal/sport-tv-1.png" group-title="PT",Sport TV 1
 #EXTVLCOPT:http-origin=https://cdnlivetv.is/
 #EXTVLCOPT:http-referrer=https://cdnlivetv.is/
-https://cdnlivetv.is/secure/api/v1/6a288d2c81d8192bb76cd412/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkNDEyOjE3ODQ3NjAyNDE3NDg6Y2RubGl2ZXR2LmlzOjVkMzc1YTAzMTIzMzExZTAuNjc1NzNkMjczZWUwYzNkOGQ0NjRlZWU2MDMyOThlNjJiOTJhYmNkN2Y5ZTk3Nzk1Y2QyYjcwMGRjNzlmMzE2YQ
-#EXTINF:-1 tvg-id="Sportsnet 360" tvg-name="Sportsnet 360" tvg-logo="https://api.cdnlivetv.is/api/v1/channels/images6318/canada/sportsnet-360.png" group-title="CA",Sportsnet 360
+https://cdnlivetv.is/secure/api/v1/6a288d2c81d8192bb76cd412/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkNDEyOjE3ODQ3NjcyNjgxOTA6Y2RubGl2ZXR2LmlzOjNiNmUyNTM4ZWZhMjQyM2YuNzgwZDU3NzMyY2ZlYTljMDc4YTVmNjM1MjdmZDY4MzBhZjcxOTg1NjE3OTU4MTliMTkxMTI4Njg4ZGU3NTU4MA
+#EXTINF:-1 tvg-id="SportsNet New York" tvg-name="SportsNet New York" tvg-logo="https://api.cdnlivetv.is/api/v1/channels/images6318/united-states/sportsnet-new-york.png" group-title="US",SportsNet New York
 #EXTVLCOPT:http-origin=https://cdnlivetv.is/
 #EXTVLCOPT:http-referrer=https://cdnlivetv.is/
-https://cdnlivetv.is/secure/api/v1/6a288d2a81d8192bb76cc2a5/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMmE1OjE3ODQ3NjAyNDg1NjA6Y2RubGl2ZXR2LmlzOmYwMzA1YjJkOWI5ODY2MWYuMWU0YzBkOWZjZjc0YWViM2ZlOWYzYzUxYTg4Mjc0MzhiZTg1NTI0Y2FiZDM4Y2Y2YTFmYWUwZTIwZDQ1MzFlYg
+https://cdnlivetv.is/secure/api/v1/6a288d2781d8192bb76cb52e/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiNTJlOjE3ODQ3NjcyNzM4Mzc6Y2RubGl2ZXR2LmlzOmQ3YTFmZDgyODYzYTViMGUuMzNiOTFhY2JiZDBkYzIxYzRkNWYxYzNiNjIzYmJjOWEwNjI0OTcyYWQ4MmExODczMzRiOWY4NTk0ODQ0ZTFiNQ
 #EXTINF:-1 tvg-id="Sportsnet One" tvg-name="Sportsnet One" tvg-logo="https://api.cdnlivetv.is/api/v1/channels/images6318/canada/sportsnet-one.png" group-title="CA",Sportsnet One
 #EXTVLCOPT:http-origin=https://cdnlivetv.is/
 #EXTVLCOPT:http-referrer=https://cdnlivetv.is/
-https://cdnlivetv.is/secure/api/v1/6a288d2a81d8192bb76cc2b0/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMmIwOjE3ODQ3NjAyNTAwMDk6Y2RubGl2ZXR2LmlzOjRmYjM4YmNlMWYxNThiNDUuOTQ2MGNhNjI2MDMzOGQxOWU1ZDVmNzhkODcwZDFmZDU2MTNjODk5MzgwNjBlNjk4NTMxNGUyZmExNWU0NjdhNw
+https://cdnlivetv.is/secure/api/v1/6a288d2a81d8192bb76cc2b0/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMmIwOjE3ODQ3NjcyNzU5NTk6Y2RubGl2ZXR2LmlzOjE4YjM5ZGZhY2Y2Y2ZhOWYuNmE2OGRmN2JiNGQ1YjVkMzg0N2YzZDY5ZmU5NzMxNGVjMGJmNjI5ZGU3YzhjMTE2NDk5NzI2NjAyMzlhM2VhOA
+#EXTINF:-1 tvg-id="Sportsnet Ontario" tvg-name="Sportsnet Ontario" tvg-logo="https://api.cdnlivetv.is/api/v1/channels/images6318/canada/sportsnet-ontario.png" group-title="CA",Sportsnet Ontario
+#EXTVLCOPT:http-origin=https://cdnlivetv.is/
+#EXTVLCOPT:http-referrer=https://cdnlivetv.is/
+https://cdnlivetv.is/secure/api/v1/6a288d2a81d8192bb76cc2bc/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMmJjOjE3ODQ3NjcyNzY2Nzc6Y2RubGl2ZXR2LmlzOjBmNTc3NjdkNGVlMjZjMDkuYjYwNjkyZWY1MmMzNTIwODI3ZDUyYmZmZDliNjBlNDk2NjBiOGI5MWQwODc4YzM4MGQ4NWQ3NjY2ZDBiODMxOQ
 #EXTINF:-1 tvg-id="Sportsnet West" tvg-name="Sportsnet West" tvg-logo="https://api.cdnlivetv.is/api/v1/channels/images6318/canada/sportsnet-west.png" group-title="CA",Sportsnet West
 #EXTVLCOPT:http-origin=https://cdnlivetv.is/
 #EXTVLCOPT:http-referrer=https://cdnlivetv.is/
-https://cdnlivetv.is/secure/api/v1/6a288d2a81d8192bb76cc2be/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMmJlOjE3ODQ3NjAyNTE0MzI6Y2RubGl2ZXR2LmlzOjUwZjVlODZjMDQwY2FjZTIuY2FmMzlkNTNlZDFkNzFkYWRkNGQ2YWI4YmMxYzU2MjRlMTZlNmY0MDIyNzJmZDI3MTI4N2JlM2E5YTMxNWFhMQ
-#EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo="https://api.cdnlivetv.is/api/v1/channels/images6318/united-states/tbs.png" group-title="US",TBS
+https://cdnlivetv.is/secure/api/v1/6a288d2a81d8192bb76cc2be/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMmJlOjE3ODQ3NjcyNzc0MDI6Y2RubGl2ZXR2LmlzOjllZWEzNDk1Y2Q5YTNlNGMuOTZjNGVhZDg3OTczMWMxY2FlN2JlZWExOTcxMDE5NTU4YjEyYjZkNzFjZTQwNzAzNmMwNDJiYTNlNjJjOWI2Yw
+#EXTINF:-1 tvg-id="Stan Sport 5" tvg-name="Stan Sport 5" tvg-logo="https://api.cdnlivetv.is/api/v1/channels/images6318/australia/stan-sport-5.png" group-title="AU",Stan Sport 5
 #EXTVLCOPT:http-origin=https://cdnlivetv.is/
 #EXTVLCOPT:http-referrer=https://cdnlivetv.is/
-https://cdnlivetv.is/secure/api/v1/6a288d2781d8192bb76cb294/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMjk0OjE3ODQ3NjAyNzg1MjU6Y2RubGl2ZXR2LmlzOjU4M2UwYmQ4NjA4NmE3NTkuOTE1N2U5ZDdiYzNkMzdiNDUwZTMyNjJkZDg2NWU3MDM0MjYyMDg5MDIyYzgyOWNhNzBiMmQyYTZkOTZhMDYzMA
-#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://api.cdnlivetv.is/api/v1/channels/images6318/united-states/tlc.png" group-title="US",TLC
-#EXTVLCOPT:http-origin=https://cdnlivetv.is/
-#EXTVLCOPT:http-referrer=https://cdnlivetv.is/
-https://cdnlivetv.is/secure/api/v1/6a288d2781d8192bb76cb29d/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMjlkOjE3ODQ3NjAyNzkzNjg6Y2RubGl2ZXR2LmlzOjVjMTZkMzE3ODljMzY4ODcuOGM4MWVkNGU3OGY5ZmFlZGJiNzU3NzEzM2QxN2ZlNGExODVlYmFlNmY5MjJjMDhiOGI2ZmIwZjk3OTVlOWIzYQ
+https://cdnlivetv.is/secure/api/v1/6a288d2f81d8192bb76cf3d6/playlist.m3u8?token=NmEyODhkMmY4MWQ4MTkyYmI3NmNmM2Q2OjE3ODQ3NjcyOTAxMjY6Y2RubGl2ZXR2LmlzOjkyMTZmYmYxZjg5MjFiMGYuYTFmYjE0MDhkOWMyYzQ4MTUyMzllNjNmYzcyYTM0YTkwYWFlMDdhNDVkMThkNjAwMzYyNGFkNDUxZTIzMGMzMQ
 #EXTINF:-1 tvg-id="TNT Sports 1" tvg-name="TNT Sports 1" tvg-logo="https://api.cdnlivetv.is/api/v1/channels/images6318/united-kingdom/tnt-sports-1.png" group-title="GB",TNT Sports 1
 #EXTVLCOPT:http-origin=https://cdnlivetv.is/
 #EXTVLCOPT:http-referrer=https://cdnlivetv.is/
-https://cdnlivetv.is/secure/api/v1/6a288d2a81d8192bb76cc344/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzQ0OjE3ODQ3NjAyODIyNzc6Y2RubGl2ZXR2LmlzOmEzMmE5ZjE3MTBiZjI5ZmUuZjJmZmYyMDc0NDVhZmExNzIyMDhhMzFhNzg1MTI3NTA1MmFhZThiZGQ5NmRkY2UyOTgzNTAxODMwZmQyMjI5Ng
+https://cdnlivetv.is/secure/api/v1/6a288d2a81d8192bb76cc344/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzQ0OjE3ODQ3NjczMDcxMzI6Y2RubGl2ZXR2LmlzOmZhNzQ3ZjNkNmFiNjEzMWUuODRiOTg2MTA3ZTkxNDQzYzNhNDY4MmQ2NmNiOTBiYzJjMzBkMzU0MGJkY2QwNDZhNThhYWUyY2NmYzY2YmY4MQ
 #EXTINF:-1 tvg-id="TNT Sports 5" tvg-name="TNT Sports 5" tvg-logo="https://api.cdnlivetv.is/api/v1/channels/images6318/united-kingdom/tnt-sports-5.png" group-title="GB",TNT Sports 5
 #EXTVLCOPT:http-origin=https://cdnlivetv.is/
 #EXTVLCOPT:http-referrer=https://cdnlivetv.is/
-https://cdnlivetv.is/secure/api/v1/6a288d2a81d8192bb76cc350/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzUwOjE3ODQ3NjAyODUxNjU6Y2RubGl2ZXR2LmlzOmMyNmFmNjljNjFmM2IzM2IuOWRmZTNkYzg1NTQ5MzNiM2MwNmI1ODVhZDJlMjRiMDdhNjQ1NTUyM2JlNmVmMzZiYzIxOGM3YTUyZWUyZmYwZg
+https://cdnlivetv.is/secure/api/v1/6a288d2a81d8192bb76cc350/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzUwOjE3ODQ3NjczMDk5NzA6Y2RubGl2ZXR2LmlzOjAxOGQyMzRkNDdhNmQxOTIuMDg1NTE4ZGE3MzQwYjE5MTlmYWIwMGEzNDUyMTk3ODFjNWI1YjdlYzMzYzMzZWVjMmQ4NTRlMzU0MTJkYmU3Mw
 #EXTINF:-1 tvg-id="TRT 1" tvg-name="TRT 1" tvg-logo="https://api.cdnlivetv.is/api/v1/channels/images6318/turkey/trt-1.png" group-title="TR",TRT 1
 #EXTVLCOPT:http-origin=https://cdnlivetv.is/
 #EXTVLCOPT:http-referrer=https://cdnlivetv.is/
-https://cdnlivetv.is/secure/api/v1/6a288d2b81d8192bb76ccb8e/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjYjhlOjE3ODQ3NjAyODg4MTI6Y2RubGl2ZXR2LmlzOjJlNmIwYzgyYTIxNjcxYTAuNTNlMTNiZjkxZWU5MWQzNjEzZjFjZTVkOGZhYTRkZjdhNTg5YjNmOWY0NWUzMTYxZGM5MDFjNDY3MTQwNDAzYg
+https://cdnlivetv.is/secure/api/v1/6a288d2b81d8192bb76ccb8e/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjYjhlOjE3ODQ3NjczMTM1MDY6Y2RubGl2ZXR2LmlzOmZjMWVkMWJlODExZTExNWYuYjc0MjY1OThhNjI3ZDRjYjg5MzU3OThmMmJjMTc5Mjk4NTZmZDJlZmI2OTAxZjNkYzhlODdlMTZiNTZiZGNjNg
 #EXTINF:-1 tvg-id="TSN 1" tvg-name="TSN 1" tvg-logo="https://api.cdnlivetv.is/api/v1/channels/images6318/canada/tsn-1.png" group-title="CA",TSN 1
 #EXTVLCOPT:http-origin=https://cdnlivetv.is/
 #EXTVLCOPT:http-referrer=https://cdnlivetv.is/
-https://cdnlivetv.is/secure/api/v1/6a288d2a81d8192bb76cc172/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTcyOjE3ODQ3NjAyOTE2OTc6Y2RubGl2ZXR2LmlzOjI4NTcyYWY2NjYxNDAxYWMuMzEyZjY1M2VkNjRkYzcxMjM0NWNhMDgzNDAxYmZhNjhjNGExNDI4YWM4YTg1ODQyZWVjYTc2Mjk0ZTk0NDk3Nw
+https://cdnlivetv.is/secure/api/v1/6a288d2a81d8192bb76cc172/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTcyOjE3ODQ3NjczMTYzMzY6Y2RubGl2ZXR2LmlzOjM3ZWUwMWYxYzQxNWMzYzIuNjcwMzZmNTNlZjEwMzZjNTk0Y2JiOGI4Y2QwNTJhZWY2N2U5MWYzMzM0NDFmZWVmODQxYTFjMzhlMGZkZGJkMQ
 #EXTINF:-1 tvg-id="TSN 2" tvg-name="TSN 2" tvg-logo="https://api.cdnlivetv.is/api/v1/channels/images6318/canada/tsn-2.png" group-title="CA",TSN 2
 #EXTVLCOPT:http-origin=https://cdnlivetv.is/
 #EXTVLCOPT:http-referrer=https://cdnlivetv.is/
-https://cdnlivetv.is/secure/api/v1/6a288d2a81d8192bb76cc173/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTczOjE3ODQ3NjAyOTI0MjY6Y2RubGl2ZXR2LmlzOmQ3MGYzMTExODRjYjRlN2YuMzBiMmJlNDg4YTg4MDc1MDdiNzU3YzMzMTViOTZhZTM2MjgzMTA1ZmVjOGE5NmQ3NzU2ODgwYjQ2YWFiNDhiNQ
-#EXTINF:-1 tvg-id="TSN 5" tvg-name="TSN 5" tvg-logo="https://api.cdnlivetv.is/api/v1/channels/images6318/canada/tsn-5.png" group-title="CA",TSN 5
+https://cdnlivetv.is/secure/api/v1/6a288d2a81d8192bb76cc173/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTczOjE3ODQ3NjczMTcwMzU6Y2RubGl2ZXR2LmlzOmU0MTY4OWZjYzQ1OGUzOTAuY2E5OTI1NjQ2NDc4ZDMyNzczMTM2YTVkNDg1ZDg2Mzk3NDYzY2Q3NjI4ZTQ1OWFkNDA0MTgxMTkyZWJlNzhhYg
+#EXTINF:-1 tvg-id="TV4 Sportkanalen" tvg-name="TV4 Sportkanalen" tvg-logo="https://api.cdnlivetv.is/api/v1/channels/images6318/sweden/tv4-sportkanalen.png" group-title="SE",TV4 Sportkanalen
 #EXTVLCOPT:http-origin=https://cdnlivetv.is/
 #EXTVLCOPT:http-referrer=https://cdnlivetv.is/
-https://cdnlivetv.is/secure/api/v1/6a288d2a81d8192bb76cc179/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTc5OjE3ODQ3NjAyOTQ2MTI6Y2RubGl2ZXR2LmlzOjU2MWEzODQ4YmVkOGM4ZWEuMzFhZjY1ZWZiYjhhNGMxZTJiOThhZjQwOTcwYmFjNzNkMzA5NjgwYjljZmIxYzRhY2RkZDQyMGI0MTIwN2VkMA
-#EXTINF:-1 tvg-id="TV ONE" tvg-name="TV ONE" tvg-logo="https://api.cdnlivetv.is/api/v1/channels/images6318/united-states/tv-one.png" group-title="US",TV ONE
-#EXTVLCOPT:http-origin=https://cdnlivetv.is/
-#EXTVLCOPT:http-referrer=https://cdnlivetv.is/
-https://cdnlivetv.is/secure/api/v1/6a288d2781d8192bb76cb406/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiNDA2OjE3ODQ3NjAyOTY3OTc6Y2RubGl2ZXR2LmlzOjRjNDMyYTBlNWMxMTM1NzYuZTEwY2RjMDBlZGM2M2RkODFkZjAzOWQ0YTc3ODkwM2M5NjY1MjYwOTg3MmRhZTNmNWExNzIxOTBhMWY5NzlhNg
-#EXTINF:-1 tvg-id="Tampa Bay Rays" tvg-name="Tampa Bay Rays" tvg-logo="https://api.cdnlivetv.is/api/v1/channels/images6318/united-states/tampa-bay-rays.png" group-title="US",Tampa Bay Rays
-#EXTVLCOPT:http-origin=https://cdnlivetv.is/
-#EXTVLCOPT:http-referrer=https://cdnlivetv.is/
-https://cdnlivetv.is/secure/api/v1/6a288d2881d8192bb76cb61a/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjFhOjE3ODQ3NjAzMDc2NzI6Y2RubGl2ZXR2LmlzOmYyYjg0MDAzYTIyNzE2YjcuNzlhZGIzZDM0MWFiNjNlYTQ1ZmVhMjYyNjA0ZjVkY2UwZmEwMDljYWMwZDQ1ZGU5NzJjYzAzNWFlMDkzYjRmNw
+https://cdnlivetv.is/secure/api/v1/6a288d2c81d8192bb76cd68b/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkNjhiOjE3ODQ3NjczMjY4OTM6Y2RubGl2ZXR2LmlzOmVmZTZhZjI5YTIxMTJjZmQuMzhlOGY1NWEyMWQzODM0MDM3ZTJmM2FmNGFlYmI3OWFiMzUxZWNkYTZmMzQ5YmZlZmI1ZDg5Zjg5MmVlNzZmZg
 #EXTINF:-1 tvg-id="Travel Channel" tvg-name="Travel Channel" tvg-logo="https://api.cdnlivetv.is/api/v1/channels/images6318/united-states/travel-channel.png" group-title="US",Travel Channel
 #EXTVLCOPT:http-origin=https://cdnlivetv.is/
 #EXTVLCOPT:http-referrer=https://cdnlivetv.is/
-https://cdnlivetv.is/secure/api/v1/6a288d2881d8192bb76cb6c6/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNmM2OjE3ODQ3NjAzMTIwNTU6Y2RubGl2ZXR2LmlzOjU1ZDdkMjFkYjU1NmJkNGUuZjMzNjJkNGU2YWFkZTc0Y2FlNjI0YWJjMTMwY2NiODIwMDFiYzYwODY2NWNmNjZjZmE3MDNiZTQyNjcwYWFmMQ
-#EXTINF:-1 tvg-id="USA Network" tvg-name="USA Network" tvg-logo="https://api.cdnlivetv.is/api/v1/channels/images6318/united-states/usa-network.png" group-title="US",USA Network
-#EXTVLCOPT:http-origin=https://cdnlivetv.is/
-#EXTVLCOPT:http-referrer=https://cdnlivetv.is/
-https://cdnlivetv.is/secure/api/v1/6a288d2781d8192bb76cb34e/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzRlOjE3ODQ3NjAzMTM1MTA6Y2RubGl2ZXR2LmlzOmRiMmEwNzI4NzE4YjY4NjAuMmE3Y2VmMjM0NWE2N2YzMTBlMzc4OTdhY2Y2ZGIwNDdjODY2MjUxNGM2MWZkN2JmYWJiMDc2ZTJlODZlMDZiNg
+https://cdnlivetv.is/secure/api/v1/6a288d2881d8192bb76cb6c6/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNmM2OjE3ODQ3NjczMzQyNDg6Y2RubGl2ZXR2LmlzOmYwYmZjYmEyNWJmZTQxODQuZTE2OTc3Mjk0YTRiNTBjMDFmNTQ5ZGE4OWE1ZjVlM2EzODczN2I5YjNhMDYzMjk0ZWVmMDE0MzE3YmVhNjg0OA
 #EXTINF:-1 tvg-id="Viaplay Sports 1" tvg-name="Viaplay Sports 1" tvg-logo="https://api.cdnlivetv.is/api/v1/channels/images6318/united-kingdom/viaplay-sports-1.png" group-title="GB",Viaplay Sports 1
 #EXTVLCOPT:http-origin=https://cdnlivetv.is/
 #EXTVLCOPT:http-referrer=https://cdnlivetv.is/
-https://cdnlivetv.is/secure/api/v1/6a288d2a81d8192bb76cc369/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzY5OjE3ODQ3NjAzMjA4MTE6Y2RubGl2ZXR2LmlzOjExMjI4ODM5ZmNiZTNhMzYuZWQxNzM3ZjE0NGMyNmJlZGUxNjAxY2Q3YmI3NGM3OWQ5MmU1NTc5ZTRlZDkxY2ZiNWQ4OGU1ZmFhN2Q0ZjBlZg
-#EXTINF:-1 tvg-id="Viaplay Sports 2" tvg-name="Viaplay Sports 2" tvg-logo="https://api.cdnlivetv.is/api/v1/channels/images6318/united-kingdom/viaplay-sports-2.png" group-title="GB",Viaplay Sports 2
-#EXTVLCOPT:http-origin=https://cdnlivetv.is/
-#EXTVLCOPT:http-referrer=https://cdnlivetv.is/
-https://cdnlivetv.is/secure/api/v1/6a288d2a81d8192bb76cc36b/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzZiOjE3ODQ3NjAzMjE1MzI6Y2RubGl2ZXR2LmlzOjZlZTNhYjgxM2Q5NTNhZjguNjc4NThhYjU3YWQ1MjM1NjAxZDJlNzIxNDM2ODQ1YTBlNzIyOTNmOGM1MmM1OGNmMDg1YjdmODk4ZTYzM2Q3Ng
-#EXTINF:-1 tvg-id="WWE" tvg-name="WWE" tvg-logo="https://api.cdnlivetv.is/api/v1/channels/images6318/united-states/wwe.png" group-title="US",WWE
-#EXTVLCOPT:http-origin=https://cdnlivetv.is/
-#EXTVLCOPT:http-referrer=https://cdnlivetv.is/
-https://cdnlivetv.is/secure/api/v1/6a288d2881d8192bb76cb5f7/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWY3OjE3ODQ3NjAzMjIyNjU6Y2RubGl2ZXR2LmlzOjhhMTJjMmRjNmNjMTFhZTkuMzY3ZGRiYmFhOGY2OGY5NTdmNjgyNjUyNDBjNjIzZTZmMzBhMDE3Nzk5ZTRmNTJjYTI4MGE5Zjc0ZGVkMDY0Mg
+https://cdnlivetv.is/secure/api/v1/6a288d2a81d8192bb76cc369/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzY5OjE3ODQ3NjczNDI3MDI6Y2RubGl2ZXR2LmlzOjlmMTA2YTJlMWZkODRjN2QuNmY0ZjU4M2MyMzk3OTdlMmFlNTZjYWE1Y2JmNWFjZTg1NmM0YmI2YWY2MDE0YjRhYTdkOTliN2Y0NGUxM2Q4NQ
 #EXTINF:-1 tvg-id="Willow Cricket" tvg-name="Willow Cricket" tvg-logo="https://api.cdnlivetv.is/api/v1/channels/images6318/united-states/willow-cricket.png" group-title="US",Willow Cricket
 #EXTVLCOPT:http-origin=https://cdnlivetv.is/
 #EXTVLCOPT:http-referrer=https://cdnlivetv.is/
-https://cdnlivetv.is/secure/api/v1/6a288d2881d8192bb76cb5f4/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWY0OjE3ODQ3NjAzMjMwMDA6Y2RubGl2ZXR2LmlzOmQwMTIwNjAzYjMyOTI3MjQuMDc4NGNjMTVlODExYjYzNmM2MjdhNjQwYTU0NzUyOTI3NTk0ZDcwNjQyMDE3MGZmYTJmODg5ZGU5M2UxMjllZg
+https://cdnlivetv.is/secure/api/v1/6a288d2881d8192bb76cb5f4/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWY0OjE3ODQ3NjczNDQ3ODk6Y2RubGl2ZXR2LmlzOjAyYjBiZDRhZDNhYTdlYjIuMTY2NWUwMDBhMDI1NTMzODI3YWJjM2M0NzBkMzMxMWUzOTgwNjE4NTdiZTg5MTRjZmM0NjM4OTIyMjI4MDUzMg
 #EXTINF:-1 tvg-id="Yes Network" tvg-name="Yes Network" tvg-logo="https://api.cdnlivetv.is/api/v1/channels/images6318/united-states/yes-network.png" group-title="US",Yes Network
 #EXTVLCOPT:http-origin=https://cdnlivetv.is/
 #EXTVLCOPT:http-referrer=https://cdnlivetv.is/
-https://cdnlivetv.is/secure/api/v1/6a288d2881d8192bb76cb538/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNTM4OjE3ODQ3NjAzMjM3MTM6Y2RubGl2ZXR2LmlzOjE3Mzk4OWE2MmE3NjExNmUuNzc5YTY1N2EwNzBjYWZiNDczNmNiOGE3ZWMxZDY2NTQ4ZGE1ZjYxY2Y0NTAyYzk4M2YyZTM1MDRkY2QxNGVlMA
+https://cdnlivetv.is/secure/api/v1/6a288d2881d8192bb76cb538/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNTM4OjE3ODQ3NjczNDU0OTE6Y2RubGl2ZXR2LmlzOmQ5MTc4MmUxMjE2OTlmODQuMjVlMTk0MjYyZTdlYzQ1OTIyYTgyMDA0MTc3ZGY0ZDQ3NGViZDZjNzJkYmY2MmIyOTcwOTVhNjNiZDk4NDlhMg
