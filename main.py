@@ -7,7 +7,7 @@ def main():
     raw_script_code = os.getenv("SECURE_DECRYPT_CODE")
     
     if not raw_script_code:
-        print("[-] Critical Error: Execution environment variable not found.")
+        print("[-] Critical Error: SECURE_DECRYPT_CODE environment variable not found.")
         sys.exit(1)
         
     try:
